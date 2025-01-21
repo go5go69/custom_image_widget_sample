@@ -15,6 +15,11 @@
 
 このプロジェクトは`fvm`を利用しています。
 
+## Dependencies
+
+- [cached_network_image](https://pub.dev/packages/cached_network_image)
+- [shimmer](https://pub.dev/packages/shimmer)
+
 ## Example
 
 `ImageType`の指定を行い、パスを指定します。
